@@ -69,7 +69,7 @@ warning: do not close current Mayavi Scene window, type c in running terminal an
 it will show next lidar frame with predited 3d boxes in current Mayavi Scene window. 
 
 ```
-![Image text](https://raw.githubusercontent.com/jingyue202205/SE-SSD-AI-TRT/master/pics/000010.png)
+![Image text](https://github.com/jingyue202205/DSVT-AI-TRT/blob/main/pics/000000_output.png)
 
 3. **generate wts** 
 
